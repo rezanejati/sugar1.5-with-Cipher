@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\dey2\diba\suger\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from G:\dey2\diba\suger\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from G:\dey2\diba\suger\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from G:\dey2\diba\suger\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from G:\dey2\diba\suger\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from G:\dey2\diba\suger\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from G:\dey2\diba\suger\src\main\AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from G:\dey2\diba\suger\src\main\AndroidManifest.xml:3:11-32
+		INJECTED from G:\dey2\diba\suger\src\main\AndroidManifest.xml
+		INJECTED from G:\dey2\diba\suger\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\dey2\diba\suger\src\main\AndroidManifest.xml:5:11-38
+		INJECTED from G:\dey2\diba\suger\src\main\AndroidManifest.xml
+		INJECTED from G:\dey2\diba\suger\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\dey2\diba\suger\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from G:\dey2\diba\suger\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from G:\dey2\diba\suger\src\main\AndroidManifest.xml
+		INJECTED from G:\dey2\diba\suger\src\main\AndroidManifest.xml
+uses-sdk
+INJECTED from G:\dey2\diba\suger\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\dey2\diba\suger\src\main\AndroidManifest.xml
+INJECTED from G:\dey2\diba\suger\src\main\AndroidManifest.xml
+INJECTED from G:\dey2\diba\suger\src\main\AndroidManifest.xml
+INJECTED from G:\dey2\diba\suger\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\dey2\diba\suger\src\main\AndroidManifest.xml
+		ADDED from G:\dey2\diba\suger\src\main\AndroidManifest.xml
+		INJECTED from G:\dey2\diba\suger\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\dey2\diba\suger\src\main\AndroidManifest.xml
+		ADDED from G:\dey2\diba\suger\src\main\AndroidManifest.xml
+		INJECTED from G:\dey2\diba\suger\src\main\AndroidManifest.xml

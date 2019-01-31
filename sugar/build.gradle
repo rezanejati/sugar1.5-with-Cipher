@@ -1,0 +1,32 @@
+apply plugin: 'com.android.library'
+//apply from: '../maven_push.gradle'
+
+android {
+    compileSdkVersion 28
+
+    defaultConfig {
+        minSdkVersion 17
+        targetSdkVersion 28
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
+    }
+    testOptions {
+        unitTests.returnDefaultValues = true
+    }
+    lintOptions {
+        abortOnError false
+    }
+}
+
+
+dependencies {
+    testCompile 'junit:junit:4.12'
+    implementation 'net.zetetic:android-database-sqlcipher:3.5.7@aar'
+}
+
+
+
+
